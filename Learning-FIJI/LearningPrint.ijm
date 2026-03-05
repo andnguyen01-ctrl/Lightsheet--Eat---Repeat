@@ -6,15 +6,15 @@
 print("\\Clear");
 
 //Printing Strings
-  print("hello world");
+print("hello world");
   
 //Printing concatenated strings using arrays or string operations
-  intro = "Hi, my name is";
-  name = "Andrew";
-  concatArray = Array.concat(intro, name);
-  concatString = intro + name;
-  Array.print(concatArray);
-  print(concatString);
+intro = "Hi, my name is";
+name = "Andrew";
+concatArray = Array.concat(intro, name);
+concatString = intro + name;
+Array.print(concatArray);
+print(concatString);
   
 //Integers 
 myAge = 22;
